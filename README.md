@@ -6,7 +6,13 @@
 |Swift|Return_Design|Trash_Design|Save_Design|Camera_Design|
 
 ## Usage
+●文法
+```swift
+#引数：frame:ここで指定したサイズのフレーム内に描画される.
+let button = Return_Design(frame: CGRect(x: 50, y: 50, width: 100, height: 100))
+```
 
+●例
 ```swift
 
 import UIKit
