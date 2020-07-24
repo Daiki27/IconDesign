@@ -38,9 +38,6 @@ class ViewController: UIViewController {
  
 ## Installation
 
-### Carthage
- - 
- - 
 
 ### CocoaPods
  - 
@@ -54,7 +51,7 @@ class ViewController: UIViewController {
 
 ## Author
 
- - 
+ - Daiki Higuchi
 
 ## License
 
