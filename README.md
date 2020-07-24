@@ -1,4 +1,6 @@
 # IconDesign
+<img width="548" alt="V1" src="https://user-images.githubusercontent.com/27540739/88386598-b1125a00-cdeb-11ea-95d1-f9a497cdad49.png">
+
 
 ## Usage
 
