@@ -44,7 +44,7 @@ class ViewController: UIViewController {
  - 
 
 ## Requirements
- - 
+ - ios 13.6 or later
 
 ## Contributing
 
