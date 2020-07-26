@@ -32,9 +32,9 @@ class ViewController: UIViewController {
 ```
 
 ## Feature
- - [x] 
- - [x] 
- - [x]
+ - [x] Easy to use
+ - [x] Simple Icon Design
+ - [x] Lightweight Library
  
 ## Installation
 
