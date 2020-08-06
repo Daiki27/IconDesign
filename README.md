@@ -8,7 +8,7 @@
 ## Usage
 [Grammer]
 ```swift
-#arg > frame : In the frame, the design is set
+//arg > frame : In the frame, the design is set
 let button = Return_Design(frame: CGRect(x: 50, y: 50, width: 100, height: 100))
 ```
 
