@@ -8,7 +8,7 @@
 ## Usage
 [Grammer]
 ```swift
-#引数：frame:ここで指定したサイズのフレーム内に描画される.
+#arg > frame : In the frame, the design is set
 let button = Return_Design(frame: CGRect(x: 50, y: 50, width: 100, height: 100))
 ```
 
@@ -22,7 +22,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        //ここでボタンデザインを決定する.
+        //Here, Set Button Design
         let button = Camera_Design(frame: CGRect(x: 50, y: 50, width: 100, height: 100))
         button.backgroundColor = UIColor.lightGray
         view.addSubview(button)
